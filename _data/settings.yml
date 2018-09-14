@@ -5,8 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: https://www.thebirdsonggroup.com/join
-  - title: Free Strategy Call
-    url: /contact/
+  - title: Career Info
+    url: http://betsybirdsong.exprealty.careers/
   - title: Free Newsletter
     url: /sign-up/
 
