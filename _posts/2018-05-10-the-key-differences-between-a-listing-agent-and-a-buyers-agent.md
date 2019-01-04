@@ -37,6 +37,6 @@ So what are the differences between being a buyer’s agent and a listing agent?
 
 &nbsp; **&nbsp; &nbsp; 5. Listing agents need to have a good sense of communication.** Sellers want to be in the know regarding the process of selling their home, so you’ll need to keep in regular and consistent contact with them.
 
-For many, it seems like we’re all the same—a Realtor is a Realtor. However, that’s absolutely not true. If you’re on the fence and don’t know which way to go, my business gives potential agents the DiSC profile, which helps them understand their personality and ultimately which path is better suited for them.
+For many, it seems like we’re all the same—a Realtor is a Realtor. However, that’s absolutely not true. If you’re on the fence and don’t know which way to go, my business gives potential agents the DiSC profile, which helps them understand their personality and ultimately decide which path is better suited for them.
 
 If you have any questions or want to learn more about the differences between being a buyer’s agent and a listing agent, feel free to reach out to me. I look forward to hearing from you.
