@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Steps to Creating a Working Real Estate Team
-date:
+date: 2019-01-14 16:54:43
 tags:
   - Real Estate
 excerpt: >-
