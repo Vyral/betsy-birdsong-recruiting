@@ -21,7 +21,7 @@ youtube_code: KV9NkAhzoeM
 
 {% include youtube.html %}
 
-Once you get so busy that you realize you can’t do everything and you’re kind of stymied in your growth because there aren’t any more hours in a day, **it’s time to make that first hire**—if you have an entrepreneurial spirit.
+Once you get so busy that you realize you can’t do everything and you’re kind of stymied in your growth because there aren’t enough hours in a day, **it’s time to make that first hire**—if you have an entrepreneurial spirit.
 
 The first hire I recommend is an administrative assistant. **An administrative assistant will allow you to do and focus on the things that will make you more money** by taking the administrative tasks off your plate. Let them help you build up systems and processes for your business, because that is what they’re going to be good at.
 
