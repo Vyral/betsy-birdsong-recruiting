@@ -3,7 +3,6 @@ layout: post
 title: Does an Agent’s Education End Once They Receive Their License?
 date: 2019-02-08 00:00:00
 tags:
-  - Real Estate Education
 excerpt: >-
   In the real estate business, the education you’re equipped with doesn’t simply
   end when you receive your license. Here’s what actually happens.
@@ -14,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-8-education-yt.jpg
-youtube_code: j2KTED5I-Zw
+youtube_code: quKV_0xeiWM
 ---
 
 {% include youtube.html %}
