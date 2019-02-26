@@ -19,7 +19,7 @@ youtube_code: kcHTsDUAErw
 
 {% include youtube.html %}
 
-Today I’m going to talk to you about the importance of tracking where your leads come from. Many of us salespeople don’t like to get bogged down into the details, but **it’s very important to get into the habit of tracking your numbers so you know what you’re doing and where things are coming from.**
+Today I’m going to talk to you about the importance of tracking where your leads come from. Many of us salespeople don’t like to get bogged down in the details, but **it’s very important to get into the habit of tracking your numbers so you know what you’re doing and where things are coming from.**
 
 First, you’re going to want to have a system where you can enter and track your leads, commonly referred to as a CRM. There are a bunch of good ones out there. **Once you pick one, you can put all of your lead’s information in and where they came from so you can track them in the future.** Whether they came from Google, Facebook, or somewhere else, you’ll be able to track the source.
 
