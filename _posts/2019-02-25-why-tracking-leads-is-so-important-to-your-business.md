@@ -29,8 +29,8 @@ First, you’re going to want to have a system where you can enter and track you
 
 **Finally, you'll need to enter any and all referrals to the database and who or what referred them.** It’s important to track conversions to sales as well. If you have thousands of leads but none of them convert to sales, then they’ve done nothing for you.
 
-The biggest advantage of tracking all of these leads, past clients, etc., is because you want to make sure that you’re putting your marketing dollars into those avenues that are generating the most leads and leading to conversions.
+The importance of tracking all of your leads, past clients, etc., is undeniable because you want to make sure that you’re putting your marketing dollars into the avenues that are generating the most leads and leading to conversions.
 
-I know many of your are awesome salespeople and might not be thrilled about the idea of tracking all these numbers. However, **you still need to know where you’re spending your money and where the best way to spend money is so that you can grow your business and continue to have consistent income.**
+I know many of you are awesome salespeople and might not be thrilled about the idea of tracking all these numbers. However, **you still need to know where you’re spending your money and what the best way to spend money is so that you can grow your business and continue to have consistent income.**
 
 If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I would love to hear from you soon.<br>&nbsp;
