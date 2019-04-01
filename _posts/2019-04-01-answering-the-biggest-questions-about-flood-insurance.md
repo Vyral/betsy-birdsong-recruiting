@@ -25,7 +25,7 @@ It’s incredibly important for real estate agents to have a clear understanding
 
 **First, you need to find out what the property’s flood zone is.** You can find this out in Matrix, and if you don’t know how, reach out to me so I can walk you through it. If you can’t access Matrix, you can contact your insurance agent as well.
 
-**Lenders don’t require flood insurance for X, B, or C zones**; however, this doesn’t mean that the property doesn’t need it. Flood insurance for these zones is inexpensive, and its price will be based on the price of the house and the kind of coverage people want.&nbsp;
+**Lenders don’t require flood insurance for X, B, or C zones**; however, this doesn’t mean that the property doesn’t need it. Flood insurance for these zones is inexpensive, and its price will be based on the price of the house and the kind of coverage people want. 
 
 {% include pullquote.html %}
 
