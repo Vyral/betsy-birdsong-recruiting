@@ -3,7 +3,6 @@ layout: post
 title: Answering the Biggest Questions About Flood Insurance
 date: 2019-04-01 00:00:00
 tags:
-  - Real Estate
 excerpt: >-
   As an agent, it’s important for you to understand the ins and outs of flood
   insurance. Here’s why.
@@ -16,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-1-food-insurance-yt.jpg
-youtube_code: YjQq2saPzGY
+youtube_code: 4XU7A2bNjjg
 ---
 
 {% include youtube.html %}
