@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get More Buyers and More Listing From Your Open House
+title: Get More Buyers and More Listings From Your Open House
 date: 2019-04-16 00:00:00
 tags:
   - Buyer Prospects
