@@ -20,7 +20,7 @@ youtube_code: S8k5UkCdX1w
 
 I’ve been told that real estate coaching is a billion dollar business in this country. I don’t know if that figure is accurate, but I do know that there are plenty of coaches, coaching programs, and real estate agents in those coaching programs. **There are all different kinds of coaches out there, so I wanted to give some advice for those of you who may be searching for some coaching in your real estate business.**
 
-The first thing you need to do before hiring a coach is to figure out your goals are and where you’re at right now in your business. Where do you want to be in the future? **When you’re very clear about those goals, you can go out and find what you’re looking for.** What you may find is that you aren’t in the right brokerage and you can get what you need from a different brokerage or team leader. If that’s the case, you may not even need to seek out coaching, which will cost you thousands.
+The first thing you need to do before hiring a coach is to figure out what your goals are and where you’re at right now in your business. Where do you want to be in the future? **When you’re very clear about those goals, you can go out and find what you’re looking for.** What you may find is that you aren’t in the right brokerage and you can get what you need from a different brokerage or team leader. If that’s the case, you may not even need to seek out coaching, which will cost you thousands.
 
 {% include pullquote.html %}
 
