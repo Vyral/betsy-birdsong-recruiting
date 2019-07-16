@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Why Do Agents Leave the Business So Fast?
-date: 2019-06-27 16:37:05
+date: 2019-06-27 16:37:00
 tags:
   - Reviews and Referrals
 excerpt: >-
   Many agents who first get their start in the business just can’t hack it and
   end up quitting as a result. Here are the five reasons why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Betsy+Birdsong/2019/Top+5+Reasons+Agents+Quit.mp4
 pullquote: >-
   To ensure that you don’t suffer the same fate as so many others, do the
   opposite.
