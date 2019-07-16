@@ -1,10 +1,11 @@
 ---
 layout: post
 title: It’s Time to Think About Joining a Team
-date: 2019-07-11 21:56:59
+date: 2019-07-11 21:56:00
 tags:
 excerpt: 'It’s time to start thinking about joining a team, and today I’ll explain why.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Betsy+Birdsong/2019/Why+Join+a+Team_+(1).mp4
 pullquote: >-
   If notoriety isn’t as important to you as financial stability and a fulfilling
   career, though, then joining a team is likely right for you.
