@@ -24,11 +24,11 @@ youtube_code: _2vlYVpdNTc
 
 Agents always ask me all the time what tools I use to increase my productivity, so today I’ll reveal my most important resource. &nbsp;
 
-**The No. 1 tool in my productivity arsenal is my Google Calendar, which I use to timeblock my days.** I put absolutely every activity into my Google Calendar, whether it's prospecting, attending appointments, or even spending personal time. I record it all.&nbsp;
+**The No. 1 tool in my productivity arsenal is my Google Calendar, which I use to time block my days.** I put absolutely every activity into my Google Calendar, whether it's prospecting, attending appointments, or even spending personal time. I record it all.&nbsp;
 
 This method has been very helpful for me, so I strongly urge all of you to try it. To start, print out a blank monthly calendar and go to town using a pencil with an eraser. This will allow you to make changes as they arise.&nbsp;
 
-Record prospecting time first, as this is something most agents aren’t thrilled about doing. Writing it down right away will help you stick to it. The best time to prospect is between 8 a.m. and 9 a.m., Monday through Friday. The second best time to do so is between 4 p.m. and 7 p.m. on those same days.&nbsp;
+Record prospecting time first, as this is something most agents aren’t thrilled about doing. Writing it down right away will help you stick to it. The best time to prospect is between 8 a.m. and 9 a.m., Monday through Friday. The second-best time to do so is between 4 p.m. and 7 p.m. on those same days.&nbsp;
 
 {% include pullquote.html %}
 
