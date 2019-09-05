@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Be More Productive as an Agent
-date: 2019-09-04 19:06:44
+date: 2019-09-04 19:06:00
 tags:
   - Lead Generation
   - Transaction Management
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: oxSb8FrS6T8
+youtube_code: _2vlYVpdNTc
 ---
 
 {% include youtube.html %}
