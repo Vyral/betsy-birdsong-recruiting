@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 4 Things that First-Time Homebuyers Want Their Agents to Know
+title: 4 Things That First-Time Homebuyers Want Their Agents to Know
 date: 2019-09-23 00:00:00
 tags:
-  - Real Estate
 excerpt: >-
   Every first-time homebuyer has similar worries about their purchase. Here are
   the four that you should know about.
@@ -14,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4thingsyt.jpg
-youtube_code: CvOlg_ek2AU
+youtube_code: bBzWWPA5waY
 ---
 
 {% include youtube.html %}
