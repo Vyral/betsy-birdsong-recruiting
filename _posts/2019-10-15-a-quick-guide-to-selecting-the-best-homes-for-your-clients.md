@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Guide to Selecting the Best Homes for Your Clients
-date: 2019-10-15 20:19:32
+date: 2019-10-15 20:19:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: The goal is to help your client find a house and do so in a timely manner.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/selectyt.jpg
 youtube_code: whZz-g0eTiU
 ---
 
