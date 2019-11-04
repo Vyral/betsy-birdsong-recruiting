@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The 6 Habits All Successful Agent Share
-date: 2019-11-01 15:38:37
+title: The 6 Habits All Successful Agents Share
+date: 2019-11-01 15:38:00
 tags:
   - Lead Generation
 excerpt: There are six specific habits all agents have in common.
